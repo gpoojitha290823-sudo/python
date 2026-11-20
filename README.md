@@ -78,6 +78,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 26 | match_case statements | ✅ Completed |
 | 27 | for loops statements | ✅ Completed |
 | 28 | while loops statements | ✅ Completed |
+| 29 | range function | ✅ Completed |
 🚀 Consistently learning and improving my python skills!
 
 
