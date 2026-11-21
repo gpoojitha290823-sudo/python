@@ -79,6 +79,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 27 | for loops statements | ✅ Completed |
 | 28 | while loops statements | ✅ Completed |
 | 29 | range function | ✅ Completed |
+| 30 | break statements | ✅ Completed |
 🚀 Consistently learning and improving my python skills!
 
 
