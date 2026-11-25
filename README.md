@@ -80,6 +80,7 @@ I'm always happy to learn, explore new ideas, and connect with fellow tech enthu
 | 28 | while loops statements | ✅ Completed |
 | 29 | range function | ✅ Completed |
 | 30 | break statements | ✅ Completed |
+| 31 | continue statements | ✅ Completed |
 🚀 Consistently learning and improving my python skills!
 
 
